@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="86px" viewBox="0 0 80 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>shopping-bag-ecommerce</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="55" cy="20" r="3"></circle>
+        <circle id="path-2" cx="25" cy="20" r="3"></circle>
+        <circle id="path-3" cx="3.5" cy="28" r="3"></circle>
+        <circle id="path-4" cx="3.5" cy="81.5" r="3"></circle>
+        <circle id="path-5" cx="76" cy="28" r="3"></circle>
+        <circle id="path-6" cx="76" cy="81.5" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-4" transform="translate(-965.000000, -877.000000)">
+            <g id="shopping-bag-ecommerce" transform="translate(965.000000, 878.000000)">
+                <polygon id="Stroke-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="3.26905007 81.5343888 76.2309499 81.5343888 76.2309499 27.4885371 3.26905007 27.4885371"></polygon>
+                <path d="M25,19 L25,14.25 C25,6.38083333 31.7166667,0 40,0 C48.2866667,0 55,6.38083333 55,14.25 L55,19" id="Stroke-3" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-114" transform="translate(55.000000, 20.000000) rotate(-90.000000) translate(-55.000000, -20.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="55" cy="20" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-115" transform="translate(25.000000, 20.000000) rotate(-90.000000) translate(-25.000000, -20.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="25" cy="20" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-110" transform="translate(3.500000, 28.000000) rotate(-90.000000) translate(-3.500000, -28.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3.5" cy="28" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-112" transform="translate(3.500000, 81.500000) rotate(-90.000000) translate(-3.500000, -81.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3.5" cy="81.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-111" transform="translate(76.000000, 28.000000) rotate(-90.000000) translate(-76.000000, -28.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="76" cy="28" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-113" transform="translate(76.000000, 81.500000) rotate(-90.000000) translate(-76.000000, -81.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="76" cy="81.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

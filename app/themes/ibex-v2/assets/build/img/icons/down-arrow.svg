@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="80" viewBox="0 0 150 80">
+<defs>
+<filter id="Forma-1-fx" filterUnits="userSpaceOnUse">
+<feFlood flood-color="#FFA501" flood-opacity="1.000"/>
+<feComposite operator="in" in2="SourceGraphic"/>
+<feBlend mode="normal" in2="SourceGraphic" result="colorOverlay"/>
+</filter>
+</defs>
+<path id="Forma-1" d="M148.476,1.520 C146.408,-0.542 143.048,-0.542 140.980,1.520 C140.980,1.520 75.065,67.371 75.065,67.371 C75.065,67.371 9.020,1.520 9.020,1.520 C6.952,-0.542 3.592,-0.542 1.524,1.520 C-0.544,3.582 -0.544,6.932 1.524,8.994 C1.524,8.994 71.187,78.453 71.187,78.453 C72.221,79.484 73.514,79.999 74.935,79.999 C76.228,79.999 77.649,79.484 78.683,78.453 C78.683,78.453 148.347,8.994 148.347,8.994 C150.544,6.932 150.544,3.582 148.476,1.520 z" fill="#000000" filter="url(#Forma-1-fx)" />
+</svg>

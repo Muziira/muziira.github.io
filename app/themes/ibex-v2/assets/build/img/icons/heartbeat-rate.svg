@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="82px" viewBox="0 0 77 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>heartbeat-rate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="4" cy="39.5" r="3"></circle>
+        <circle id="path-2" cx="70" cy="39.5" r="3"></circle>
+        <circle id="path-3" cx="37.5" cy="20.5" r="3"></circle>
+        <circle id="path-4" cx="37.5" cy="77.5" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-7" transform="translate(-778.000000, -385.000000)">
+            <g id="heartbeat-rate" transform="translate(779.000000, 386.000000)">
+                <path d="M37.4262734,78.0369684 C37.4262734,78.0369684 74.8525468,49.0654684 74.8525468,21.6480499 C74.8525468,-5.76936867 41.6465313,-7.87949761 37.4262734,19.5414854 C33.2060155,-7.87949761 0,-5.76936867 0,23.7581788 C0,53.2857263 37.4262734,78.0369684 37.4262734,78.0369684 Z" id="Page-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Page-1" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" points="3.50772522 39.7419722 20.6859809 39.7419722 27.0035549 23 38.3719618 54.8645587 48.6301019 31.3790783 53.1102792 39.7419722 70.0576704 39.7419722"></polyline>
+                <g id="Oval-Copy-553" transform="translate(4.000000, 39.500000) rotate(-90.000000) translate(-4.000000, -39.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="4" cy="39.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-553" transform="translate(70.000000, 39.500000) rotate(-90.000000) translate(-70.000000, -39.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="70" cy="39.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-553" transform="translate(37.500000, 20.500000) rotate(-90.000000) translate(-37.500000, -20.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="37.5" cy="20.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-553" transform="translate(37.500000, 77.500000) rotate(-90.000000) translate(-37.500000, -77.500000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="37.5" cy="77.5" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="93px" viewBox="0 0 93 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>steak-in-petri-dish</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="60" cy="23" r="3"></circle>
+        <circle id="path-2" cx="17" cy="10" r="3"></circle>
+        <circle id="path-3" cx="75" cy="80" r="3"></circle>
+        <circle id="path-4" cx="78" cy="39" r="3"></circle>
+        <circle id="path-5" cx="69" cy="56" r="3"></circle>
+        <circle id="path-6" cx="14" cy="52" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-5" transform="translate(-581.000000, -871.000000)">
+            <g id="steak-in-petri-dish" transform="translate(582.000000, 872.000000)">
+                <circle id="Oval-2-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round" cx="45.5" cy="45.5" r="45.5"></circle>
+                <path d="M69.1233845,56 C67.6268303,52.3071296 64.3917221,47.926554 66.9589854,44.7544612 C69.5262488,41.5823683 69.7982642,36.4503852 72.9067446,37.0478843 C76.015225,37.6453835 77.1398683,37.2422459 78,39.6429371" id="Path-7-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M23.4106681,58.4065665 C24.5555183,60.1414765 26.290639,62.4805511 29.5434413,63.1078258 C32.7962435,63.7351006 43.4831594,63.6679712 46.1105495,64.4812274 C48.7379395,65.2944836 58.903221,67.5163569 61.2544194,68.6118867 C63.6056178,69.7074166 71.3301995,71.8340982 75.0903598,66.7548233 C78.8505201,61.6755484 80.1524097,57.3930226 79.9860358,50.0528074 C79.8196619,42.7125922 78.3887364,37.9667634 75.0903598,35.6931675 C71.7919832,33.4195716 72.279025,32.874833 71.7919832,31.1734877 C71.3049414,29.4721425 67.3075747,23.0123129 64.5560906,21.4056091 C61.8046064,19.7989054 61.1237363,23.5185347 60.0535621,23.0123129 C58.983388,22.5060912 56.3788174,22.4836193 54.6161705,21.4056091 C52.8535236,20.327599 50.3894514,22.3876565 48.9450566,24.0451492 C47.5006619,25.7026419 43.2185504,26.6857557 42.416123,26.5674815 C41.6136956,26.4492074 36.496994,30.1729942 32.550564,34.268976 C28.6041341,38.3649579 24.6094071,35.3915876 19.8153867,35.6931675 C15.0213663,35.9947474 10.0476463,38.7735096 8.54086714,42.0445396 C7.03408799,45.3155696 8.82890867,45.9497182 12.0269528,50.0528074 C15.2249969,54.1558965 18.0623364,56.9782608 20.3888591,57.2904519 C22.7153818,57.602643 22.2658179,56.6716566 23.4106681,58.4065665 Z" id="Path-6-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M59.7230477,23 C61.5122966,25.5420193 66.4917365,30.7850316 64.3788338,34.391043 C62.265931,37.9970543 60.9810525,37.6634826 57.1474485,37.9970543 C53.3138444,38.330626 48.1828987,38.6216223 43.9430721,38.9137905 C39.7032455,39.2059587 33.3431161,39.2258792 31.8872579,38.9137905 C30.4313998,38.6017018 27.3724618,40.0730888 25.1629692,40.0656674 C22.9534767,40.058246 19.5965902,39.5653099 20.039813,41.4433106 C20.4830357,43.3213113 25.4507914,44.909878 28.083254,44.9876073 C30.7157166,45.0653365 31.7302994,43.7915927 33.6500225,43.5060647 C35.5697456,43.2205367 40.2220264,42.4088717 43.3308171,42.0897522 C46.4396078,41.7706327 53.5483085,40.2156575 56.3459086,40.0656674 C59.1435087,39.9156773 58.0335045,43.390838 59.7230477,44.9876073 C61.412591,46.5843766 62.6455148,46.7662528 64.618596,49.1903111 C65.9339834,50.8063499 67.3944514,53.0762463 69,56" id="Path-8-Copy" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Oval-Copy-486" transform="translate(60.000000, 23.000000) rotate(-360.000000) translate(-60.000000, -23.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="60" cy="23" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-490" transform="translate(17.000000, 10.000000) rotate(-360.000000) translate(-17.000000, -10.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="17" cy="10" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-491" transform="translate(75.000000, 80.000000) rotate(-360.000000) translate(-75.000000, -80.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="75" cy="80" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-487" transform="translate(78.000000, 39.000000) rotate(-360.000000) translate(-78.000000, -39.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="78" cy="39" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-488" transform="translate(69.000000, 56.000000) rotate(-360.000000) translate(-69.000000, -56.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="69" cy="56" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-489" transform="translate(14.000000, 52.000000) rotate(-360.000000) translate(-14.000000, -52.000000) ">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="14" cy="52" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

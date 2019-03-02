@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="103px" height="65px" viewBox="0 0 103 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>hand-shake</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10" cy="7" r="3"></circle>
+        <circle id="path-2" cx="3" cy="31" r="3"></circle>
+        <circle id="path-3" cx="48" cy="3" r="3"></circle>
+        <circle id="path-4" cx="91" cy="8" r="3"></circle>
+        <circle id="path-5" cx="98" cy="33" r="3"></circle>
+        <circle id="path-6" cx="58" cy="54" r="3"></circle>
+    </defs>
+    <g id="Version-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="full-preview-1" transform="translate(-576.000000, -454.000000)">
+            <g id="hand-shake" transform="translate(577.000000, 455.000000)">
+                <g id="Group-28" transform="translate(2.000000, 1.000000)" stroke="#3F3F3F" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M33,13 C37.7204275,16.8809597 43.7177513,17.0495708 50.9919714,13.5058332 C56.4740295,15.4397451 60.0822889,16.7010934 61.8167495,17.2898781 L82.3840843,38 L95.5513598,31.6657814" id="Path-50"></path>
+                    <polyline id="Path-52" points="47.703882 1.78628961 28.7032829 5.01257638 20.0923967 11 8.36884781 6.13849543"></polyline>
+                    <path d="M26.3249714,29.3901573 C28.4525136,31.3392089 28.5689057,34.6135897 26.5849405,36.7036915 L23.1195714,40.3544484 C21.1356061,42.4445503 17.8025708,42.5588942 15.6750286,40.6098427 C13.5474864,38.6607911 13.4310943,35.3864103 15.4150595,33.2963085 L18.8804286,29.6455516 C20.8643939,27.5554497 24.1974292,27.4411058 26.3249714,29.3901573 Z" id="Rectangle-7"></path>
+                    <path d="M39.3579963,31.4134748 C41.4435918,33.3952183 41.5576892,36.7245211 39.6128399,38.8496808 L30.9397694,48.3268471 C28.9949202,50.4520068 25.7275992,50.5682687 23.6420037,48.5865252 C21.5564082,46.6047817 21.4423108,43.2754789 23.3871601,41.1503192 L32.0602306,31.6731529 C34.0050798,29.5479932 37.2724008,29.4317313 39.3579963,31.4134748 Z" id="Rectangle-7-Copy"></path>
+                    <path d="M47.9706283,38.9410355 C50.2089534,41.4221109 50.7424049,44.3838691 48.8154178,46.4990533 L41.0475016,55.0256141 C39.1205144,57.1407982 35.8091177,57.5675166 33.2588445,55.1065309 C30.7085713,52.6455451 30.4474328,49.307044 32.37442,47.1918599 L40.1423362,38.665299 C42.0693234,36.5501149 45.7323032,36.4599601 47.9706283,38.9410355 Z" id="Rectangle-7-Copy-2"></path>
+                    <path d="M55.3284993,47.3778795 C57.4515605,49.309717 57.5677075,52.5551784 55.5879209,54.6268205 L50.1003638,60.3689819 C48.1205772,62.440624 44.7945619,62.553958 42.6715007,60.6221205 C40.5484395,58.690283 40.4322925,55.4448216 42.4120791,53.3731795 L47.8996362,47.6310181 C49.8794228,45.559376 53.2054381,45.446042 55.3284993,47.3778795 Z" id="Rectangle-7-Copy-3"></path>
+                    <path d="M59.5947917,37.4480222 C61.6697707,35.468651 64.9762615,35.5256629 66.9800455,37.5753617 L72.5341184,43.2567012 C74.5379024,45.3064 74.4801874,48.5726066 72.4052083,50.5519778 C70.3302293,52.531349 67.0237385,52.4743371 65.0199545,50.4246383 L59.4658816,44.7432988 C57.4620976,42.6936 57.5198126,39.4273934 59.5947917,37.4480222 Z" id="Rectangle-7-Copy-4"></path>
+                    <path d="M63.0708126,48.6320736 L63.7217855,49.3715094 C65.1477868,50.9875929 65.3425663,53.9331416 63.8686764,55.4967165 L63.6237526,55.7560574 C62.0178603,57.4564623 59.4588618,57.4074856 57.9080696,55.6466647 L56,53.4677469" id="Rectangle-7-Copy-5"></path>
+                    <path d="M82.4941842,38.1061977 C83.6483475,40.0095549 84.220044,44.1629834 82.6518513,45.7215023 L81.7888495,46.5791804 C79.8346077,48.521367 76.7205125,48.4654262 74.8333232,46.4542331 C74.8303815,46.4510981 74.5526071,46.1527857 74,45.5592959" id="Rectangle-7-Copy-6"></path>
+                    <polyline id="Path-51" points="88 7.15007601 81.6943574 10.4613337 68.2779328 0 47.5805808 1.61068847 33.1344001 13.10794"></polyline>
+                    <path d="M0.875955445,30.9414368 L13.7874808,36.7038265" id="Path-53"></path>
+                </g>
+                <g id="Oval-Copy-145">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="10" cy="7" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-Copy-157">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="3" cy="31" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-2"></use>
+                </g>
+                <g id="Oval-Copy-158">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="48" cy="3" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <g id="Oval-Copy-159">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="91" cy="8" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-4"></use>
+                </g>
+                <g id="Oval-Copy-160">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="98" cy="33" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-5"></use>
+                </g>
+                <g id="Oval-Copy-161">
+                    <use fill="#C2C2C2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <circle stroke="#151515" stroke-width="1.5" cx="58" cy="54" r="2.25"></circle>
+                    <use stroke="#151515" stroke-width="1" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
